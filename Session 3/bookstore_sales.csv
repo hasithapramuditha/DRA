@@ -1,0 +1,8 @@
+Book_Title,Price,Quantity_Sold,Category
+Mystery Novel,29.99,10,Mystery
+Sci-Fi Adventure,35.50,8,Sci-Fi
+Mystery Novel,29.99,10,Mystery
+Romance Book,,5,Romance
+Fantasy Epic,45.00,abc,Fantasy
+History Book,25.00,12,History
+Sci-Fi Adventure,35.50,,Sci-Fi
